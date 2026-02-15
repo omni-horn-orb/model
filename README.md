@@ -9,13 +9,16 @@ This repository contains the numerical codes, SymPy notebooks, lattice diagonali
 **"The Omni-Horn-Orb Hypersphere: A Geometric Framework for Cosmology Without Dark Components"**  
 by Christopher M. Gibson (15 February 2026).
 
-**Status**: Materials are being prepared and will be uploaded shortly.  
+**Download the Full Paper**  
+[Omni-Horn-Orb-Model-20260215.pdf](https://github.com/omni-horn-orb/model/blob/main/Omni-Horn-Orb-Model-20260215.pdf) (PDF, 15 Feb 2026)
 
 **Zenodo archive** (permanent DOI): [10.5281/zenodo.18416212](https://zenodo.org/records/18416212)
 
+**Status**: Materials are being prepared and will be uploaded shortly.  
+
 For immediate access, questions, or collaboration: contact the author.
 
-**Paper**: [arXiv / PDF link to be added when live]
+**Paper**: [arXiv link to be added when live]
 
 ---
 

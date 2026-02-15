@@ -1,7 +1,6 @@
-![Omni-Horn-Orb Banner](https://picsum.photos/id/1015/1200/400)
+![Omni-Horn-Orb Banner](https://raw.githubusercontent.com/omni-horn-orb/model/main/Screenshot_20260215_030709_Gallery.jpg)
 
-*(4D hypersphere with omni-directional horn flares in cosmic space – artistic visualisation of the model)*
-*(A 4D hypersphere with omni-directional horn flares – artistic visualisation)*
+*(Omni-Horn-Orb hypersphere – custom visualisation by the author, 15 February 2026)*
 
 # Omni-Horn-Orb Hypersphere Model Repository
 

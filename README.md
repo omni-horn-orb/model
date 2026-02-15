@@ -19,7 +19,7 @@ by Christopher M. Gibson (15 February 2026).
 
 **Zenodo archive** (permanent DOI): [10.5281/zenodo.18416212](https://zenodo.org/records/18416212)
 
-For questions, collaboration, or to request specific files: contact the author.
+For questions or collaboration, please open an Issue on this repository.
 
 ---
 

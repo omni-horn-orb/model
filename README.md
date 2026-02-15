@@ -1,27 +1,36 @@
-![Omni-Horn-Orb Banner](https://raw.githubusercontent.com/omni-horn-orb/model/main/Screenshot_20260215_030709_Gallery.jpg)
+# Omni-Horn-Orb Model
 
-*(Omni-Horn-Orb hypersphere – custom visualisation by the author, 15 February 2026)*
+**A Geometric Framework for Cosmology Without Dark Components**
 
-# Omni-Horn-Orb Hypersphere Model Repository
+Author: Christopher M. Gibson  
+Date: February 15, 2026  
+Permanent archive: [Zenodo DOI 10.5281/zenodo.18416212](https://doi.org/10.5281/zenodo.18416212)
 
-This repository contains the numerical codes, SymPy notebooks, lattice diagonalizations, and RK45 integrations referenced in the paper  
+### Full Computational Repository — Now Complete
 
-**"The Omni-Horn-Orb Hypersphere: A Geometric Framework for Cosmology Without Dark Components"**  
-by Christopher M. Gibson (15 February 2026).
+This repository contains all the code, derivations, and numerical results for the Omni-Horn-Orb hypersphere cosmology described in the paper.
 
-### Files currently available
+### What is now live:
 
-- **Omni-Horn-Orb-Model-20260215.pdf** → Full paper (with Acknowledgments linking to this repo)  
-- **RK45_expansion.py** → Numerical integration of the effective Friedmann-like equations (Table 6.1)  
-- **metric_derivations_sympy.py** → Derivation of the induced metric and Christoffel symbols (§2)  
-- **lepton_lattice.py** → E₈ lattice diagonalization for lepton mass ratios (§5.7)  
-- **anchor_phase.py** → Non-local phase constraints and Bullet Cluster prediction (§2.6)
+- **`Omni_Horn_Orb_Full_Notebook.ipynb`** → Complete Jupyter notebook with live expansion history, w(z) calculations, and notes  
+- **`lepton_lattice.py`** → Full lepton mass spectrum from the E₈-root lattice on the equatorial slice (exact matches to §5.7) + neutrino hints  
+- **`RK45_expansion.py`** → Live Runge-Kutta integration — no hardcoded numbers, full dynamic H(z) and w_eff(z) table  
+- **`metric_derivations_sympy.py`** → Symbolic metric and Christoffel symbols (from §2)  
+- **The full paper** → `Omni-Horn-Orb-Model-20260215.pdf`
 
-**Zenodo archive** (permanent DOI): [10.5281/zenodo.18416212](https://zenodo.org/records/18416212)
+### How to run
 
-For questions or collaboration, please open an Issue on this repository.
+All code runs with standard Python (numpy, scipy, matplotlib, sympy).  
+Just clone the repo and run the files — no complicated setup.
 
----
+### Quick start
 
-*Independent researcher, London, England*  
-*Date: 15 February 2026*
+```bash
+# Run the live expansion table
+python RK45_expansion.py
+
+# Run the lepton masses
+python lepton_lattice.py
+
+# Open the full notebook
+jupyter notebook Omni_Horn_Orb_Full_Notebook.ipynb

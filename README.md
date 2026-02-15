@@ -1,4 +1,8 @@
-# Omni-Horn-Orb Model
+![Omni-Horn-Orb Banner](Screenshot_20260215_030709_Gallery.jpg)
+
+<div align="center">
+  <em>Omni-Horn-Orb hypersphere – custom visualisation by the author, 15 February 2026</em>
+</div># Omni-Horn-Orb Model
 
 **A Geometric Framework for Cosmology Without Dark Components**
 

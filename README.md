@@ -1,3 +1,5 @@
+![Omni-Horn-Orb Banner](https://github.com/omni-horn-orb/model/blob/main/banner.png)  
+*(banner image coming soon)*
 # Omni-Horn-Orb Hypersphere Model Repository
 
 This repository contains the numerical codes, SymPy notebooks, lattice diagonalizations, and RK45 integrations referenced in the paper  

@@ -65,6 +65,7 @@ a_list = []
 t_list = []
 q_list = []
 z_list = []
+H_list = []
 
 # -----------------------------
 # Time integration

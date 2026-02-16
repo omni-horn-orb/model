@@ -1,70 +1,50 @@
-# Toy Cosmology: Density–Driven Acceleration Demo
+"""
+Toy Cosmology: Density–Driven Expansion Demo
 
-This folder contains a small Python experiment exploring whether a simple
-density-dependent acceleration model can reproduce the qualitative expansion
-history of our universe:
+This script numerically integrates a very simple scale factor a(t)
+using three qualitative components:
 
-• early deceleration  
-• later transition to acceleration  
+1. Primary expansion
+2. Density-dependent emergent attraction
+3. Late-time low-density amplification
 
-This is **not** a full cosmological theory or fit to observational data.
-It is a pedagogical / exploratory toy model.
+Purpose:
+Demonstrate whether such a structure can naturally produce:
 
----
+- Early deceleration
+- Later acceleration
+- A transition redshift
 
-## What this does
+This is a pedagogical toy model only.
+Parameters are hand-chosen.
+No observational fitting is performed.
+"""
 
-The script numerically integrates a scale factor a(t) using:
+import numpy as np
+import matplotlib.pyplot as plt
 
-Primary expansion term  
-Emergent attractive term proportional to density  
-Late-time amplification term (activated at low density)
+# -----------------------------
+# METHODS / MODEL DESCRIPTION
+# -----------------------------
+#
+# We evolve a scale factor a(t) forward in time using:
+#
+#   a_ddot = +A               (primary expansion)
+#            - B * rho       (emergent attraction)
+#            + C / (rho+eps) (late-time amplification)
+#
+# Density rho scales as 1/a^3.
+#
+# This is NOT derived from GR or Friedmann equations.
+# It is purely phenomenological.
+#
+# Goal: see if qualitative cosmic history appears:
+# deceleration -> acceleration.
 
-It then:
 
-• plots a(t)  
-• computes the deceleration parameter q(z)  
-• estimates the redshift where acceleration begins  
+# -----------------------------
+# Parameters (chosen manually)
+# -----------------------------
 
-This is intended only to test *qualitative behavior*.
-
----
-
-## Files
-
-`toy_cosmology.py`  
-Main Python script.
-
----
-
-## Requirements
-
-Python 3  
-numpy  
-matplotlib  
-
-Install with:
-
-pip install numpy matplotlib
-
----
-
-## Run
-
-python toy_cosmology.py
-
----
-
-## Important note
-
-Free parameters are chosen manually.
-No parameter fitting to ΛCDM or observational datasets is performed.
-
-This code is meant to demonstrate structural plausibility only.
-
----
-
-## Purpose
-
-To provide a minimal computational companion to the geometric ideas
-in the Omni-Horn-Orb manuscript, without claiming predictive power.
+A = 0.6      # primary expansion strength
+B = 1.2      # density attraction

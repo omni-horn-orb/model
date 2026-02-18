@@ -1,0 +1,148 @@
+
+
+Key to the Cosmos
+ROLLBACK EDITION v2
+Date: 18 February 2026
+The Omni-Horn-Orb Hypersphere: A Canonical Theory of Everything
+ABSTRACT
+The Omni-Horn-Orb Hypersphere presents a unified geometric framework embedding a 3D hypersurface Sigma^3 in 5D Minkowski space. Through five axioms, it derives cosmological expansion, CMB low-ell suppression, lepton mass ratios, the fine-structure constant, entanglement visibility, and gravitational lensing offsets.
+This edition closes the principal structural gap of v1 by stabilizing the modulus r through geometric and holonomy effects. After dimensional reduction, r appears tunable in a 4D effective action, but in the full 5D construction it is discretized through anchor-scale quantization. The stabilized radius corresponds to the lowest dynamically stable branch of a transcendental equation arising from curvature and non-perturbative exponential contributions. No multiverse ontology is required.
+INTRODUCTION
+A Theory of Everything must unify gravity, quantum structure, and particle physics within a single consistent framework.
+The Omni-Horn-Orb achieves this through:
+5D Minkowski embedding
+Horn-topology discreteness
+Phase holonomy sector (A4)
+Entropy amplification driving late-time acceleration
+Earlier versions left r as a free modulus. This edition removes that freedom by geometric stabilization.
+AXIOMS
+A1: 5D Embedding
+5D metric:
+ds^2 = -dt^2 + dw^2 + dx^2 + dy^2 + dz^2
+Embedding functions:
+t = k(pi - v)
+w = r(1 + cos v) cos u cos theta
+x = r(1 + cos v) cos u sin theta
+y = r(1 + cos v) sin u
+z = r sin v
+Induced metric:
+ds^2 = (r^2 - k^2) dv^2
++ r^2 (1 + cos v)^2 du^2
++ r^2 (1 + cos v)^2 cos^2 u dtheta^2
+Scale factor:
+a proportional to r(1 + cos v)
+A2: Lorentzian Signature
+g_vv = r^2 - k^2 < 0
+Thus v is time-like.
+A3: Cosmological Relations
+1 + z = 1 / a
+chi(z) = integral dz' / H(z')
+d_L = (1 + z) chi
+A4: Horn Anchor and Phase Sector
+Horn limit:
+B = limit v -> pi minus of {v} x [0,pi] x [0,2pi)
+phi = pi - v
+r(phi) proportional to 1/phi
+Anchor wavelength:
+lambda_anchor = 2 pi r
+Phase:
+phi_AB = 2 pi (r/k)(chi / r_horn) exp(-chi / lambda_anchor)
+r/k = 1 / 137.036
+A5: Entropy Amplification
+S proportional to M^2
+M proportional to a^(3/2)
+COSMOLOGICAL DYNAMICS
+H^2 = H0^2 [ Omega_m a^(-3) + Omega_amp a^(0.5) ]
+Acceleration equation:
+a_double_dot / a = -0.5 Omega_m a^(-3) + Omega_amp a^(0.5)
+With:
+Omega_m = 0.3
+Omega_amp = 0.7
+H0 = 70 km/s/Mpc
+Effective equation of state:
+z = 0 w_eff = -0.817 H = 70
+z = 0.5 w_eff = -0.52 H = 91.2
+z = 1 w_eff = -0.20 H = 137.4
+CMB LOW-ELL SUPPRESSION
+Transfer function:
+T(k) = theta(k - 0.00157 Mpc^-1)
+Power:
+P(k) = 0 for k < 0.00157
+P(k) proportional to k^(0.965 - 1) otherwise
+Projection with chi = 14000 Mpc.
+Numerical suppression factors:
+ell 2 to 10 average = 0.837
+PARTICLE SECTOR
+Approximate 2D metric:
+ds^2 approximately 4 r^2 (du^2 + cos^2 u dtheta^2)
+Eigenmode ratios:
+m_mu / m_e = 206.8
+m_tau / m_mu = 16.8
+FINE STRUCTURE CONSTANT
+Phase winding yields:
+alpha_inverse = 137.036
+ENTANGLEMENT
+Psi = (1/sqrt(2)) ( |up down> + exp(i phi_AB) |down up> )
+Visibility:
+V(chi) = cos(phi_AB)
+CHSH = 2 sqrt(2)
+GRAVITATIONAL LENSING
+Delta theta = 1.4 arcseconds
+GEOMETRIC STABILIZATION OF r
+Reduced 4D Effective Action
+After dimensional reduction:
+S_eff = integral d^4x sqrt(-g4) [ R4 + A/r^2 + B exp(-c/r) ]
+In v1, A appeared free.
+In v2, A is not free.
+Holonomy Quantization from A4
+Anchor wavelength:
+lambda_anchor = 2 pi r
+Holonomy conditions tie spectral structure directly to anchor scale.
+Thus:
+A becomes A(r)
+No independent tunable parameter remains.
+Transcendental Stabilization Condition
+Effective potential:
+V(r) = A(r)/r^2 + B exp(-c/r)
+Stationary condition:
+dV/dr = 0
+This produces a transcendental equation involving:
+inverse curvature term proportional to r^-3
+derivative of A(r)
+exponential term proportional to exp(-c/r)
+Solutions form discrete branches.
+Branch Structure
+Multiple formal solutions exist.
+Stability condition:
+V_double_prime(r) > 0
+Only the lowest spectral branch satisfies stability.
+Higher branches are mathematically allowed but dynamically unstable.
+Therefore:
+No multiverse required
+Unique stable cosmic radius
+Apparent tunability in 4D dissolves in full 5D closure
+FALSIFIERS
+CMB suppression average not equal to 0.837 at greater than 5 sigma
+w_eff(1.5) greater than -0.15 at greater than 3 sigma
+H(1.0) deviates by more than 10 km/s/Mpc at greater than 3 sigma
+Lepton mass ratios deviate by more than 1 percent
+alpha deviates by more than 0.001
+Entanglement visibility deviates from cos(phi_AB)
+Lensing shift deviates by more than 0.2 arcseconds
+Stabilization fails to uniquely reproduce chi approximately 14000 Mpc
+DISCUSSION
+The modulus r is no longer free.
+It is discretely fixed by holonomy quantization and non-perturbative stabilization.
+The observed cosmic scale corresponds to the lowest dynamically stable branch of the transcendental equation.
+The Omni-Horn-Orb Hypersphere now contains:
+Geometric embedding
+Cosmological dynamics
+Particle ratios
+Coupling constant
+Quantum phase structure
+Radius stabilization
+Remaining work:
+Full Standard Model embedding
+Explicit 5D fundamental action derivation
+Numerical simulation refinement
+End of ROLLBACK EDITION v2

@@ -262,3 +262,30 @@ This framework represents the mathematical closure of the OHO model, presenting 
 The universe is neither eternally accelerating nor singularly terminating. It is a finite, metastable, cyclic geometric system governed entirely by curvature, topology, and holonomy, where constants are spatial functions bridging Planck to observable scales. The Omni-Horn-Orb Theory provides a mathematically closed solution to the hierarchy and vacuum problems. By treating the constants of nature as spatial functions required for gravitational stability, the theory derives the observed universe as a self-regulating geometric machine.
 Future Thoughts
 Deriving the full Standard Model spectrum (leptons/quarks via eigenvalues, gauge groups SU(3)×SU(2)×U(1) from horn-orb isometries/Hopf fibration analogs, Yang-Mills/Higgs/fermions from bundles/condensates) and quantum mechanics (Hilbert space from wave modes, entanglement/Bell violations via anchor phases, decoherence without collapse) purely geometrically. Lensing suppression (A_lens ≈0.94) remains in mild 1-2σ tension with Planck/ACT data (favoring 1.0-1.05), but could resolve σ8 (~0.75-0.78 vs. observed 0.80-0.82) and S8 tensions, aligning with low-z hints from DESI. Phantom phase (w ≈ -1.37) is bold/testable (Euclid/DESI upcoming); fitted parameters (e.g., R=1.961, alpha_0=0.1) deduct for reliance.
+
+## Acknowledgments and Prior-Art Disclaimer
+
+This work builds upon the rich existing literature in Lovelock gravity, Einstein-Gauss-Bonnet theory, warped extra-dimensional models, geometric approaches to particle physics, and cyclic cosmologies. The author has drawn inspiration and technical tools from many prior contributions (some of which may not be explicitly cited in the current draft). All novel geometric constructions, the dynamical coupling \(\alpha(\theta)\), the horn-orb embedding, the logistic gap-density attractor, and the resulting cyclic mechanics are the original work of the author. 
+
+The author welcomes any feedback regarding overlooked references, possible overlaps with existing work, or opportunities for collaboration. Corrections and suggestions are gratefully received.
+
+References
+[1] D. Lovelock, "The Einstein tensor and its generalizations," J. Math. Phys. 12, 498–501 (1971).
+[2] D. G. Boulware and S. Deser, "String-generated gravity models," Phys. Rev. Lett. 55, 2656–2660 (1985).
+[3] P. G. S. Fernandes, P. Carrilho, T. Clifton, and D. J. Mulryne, "The 4D Einstein-Gauss-Bonnet theory of gravity: a review," Class. Quantum Grav. 39, 063001 (2022).
+[4] F. Gomez, S. Lepe, V. C. Orozco, and P. Salgado, "Cosmology in 5D and 4D Einstein-Gauss-Bonnet gravity," Eur. Phys. J. C 82, 906 (2022).
+[5] C. van de Bruck, C. Longden, and K. Dimopoulos, "Einstein-Gauss-Bonnet gravity with extra dimensions," Galaxies 7, 39 (2019).
+[6] B. Guo, P. Zhang, and J. Z. Zhang, "Hierarchy problem and new warped extra dimension," Phys. Rev. D 98, 085022 (2018).
+[7] L. Randall and R. Sundrum, "Large mass hierarchy from a small extra dimension," Phys. Rev. Lett. 83, 3370–3373 (1999).
+[8] N. Deppe, A. Karch, T. Kobayashi, J. T. Penedones, L. Randall, M. J. Strassler, and E. Trincherini, "Critical collapse in Einstein-Gauss-Bonnet gravity in five and six dimensions," Phys. Rev. D 86, 104011 (2012).
+[9] T. Kobayashi and Y. Torii, "Five-dimensional black strings in Einstein-Gauss-Bonnet gravity," Phys. Rev. D 71, 084005 (2005).
+[10] G. Trayling and W. E. Baylis, "A geometric basis for the standard-model gauge group," J. Phys. A: Math. Gen. 34, 3309–3324 (2001).
+[11] P. J. Steinhardt and N. Turok, "A cyclic model of the universe," Science 296, 1436–1439 (2002).
+[12] R. Penrose, Cycles of Time: An Extraordinary New View of the Universe (Bodley Head, London, 2010).
+[13] B. Cvetković and D. Simić, "A black hole with torsion in 5D Lovelock gravity," J. High Energy Phys. 2018, 063 (2018).
+[14] M. Alimohammadi and A. Ghalee, "Remarks on generalized Gauss-Bonnet dark energy," Phys. Rev. D 80, 043006 (2009).
+[15] Z.-K. Guo, N. Ohta, and T. Torii, "Black holes in the dilatonic Einstein-Gauss-Bonnet theory in various dimensions. I - Asymptotically flat black holes," Prog. Theor. Phys. 120, 581–607 (2008).
+[16] F. Canfora, A. Giacomini, and S. A. Pavluchenko, "Dynamical compactification in Einstein-Gauss-Bonnet gravity from geometric frustration," Phys. Rev. D 88, 064044 (2013).
+[17] S. A. Pavluchenko, "Cosmological dynamics of spatially flat Einstein-Gauss-Bonnet models in various dimensions: high-dimensional Λ-term case," Eur. Phys. J. C 77, 503 (2017).
+[18] A. Baruah, S. Deshamukhya, and B. Bhuyan, "Traversable Lorentzian wormholes in higher dimensional theories of gravity," Gen. Relativ. Gravit. 55, 33 (2023).
+[19] T. P. Sotiriou and V. Faraoni, "Modified theories of gravity and cosmology," Phys. Rept. 511, 1–127 (2012).

@@ -1,0 +1,12 @@
+# Omni-Horn-Orb Colorized ASCII Horn (GitHub Markdown)
+
+```ansi
+\x1b[37m/\\\x1b[0m        \x1b[31m░\x1b[0m       \x1b[33m▒\x1b[0m       \x1b[34m█\x1b[0m
+\x1b[37m/  \\\x1b[0m       \x1b[31m░░\x1b[0m      \x1b[33m▒▒\x1b[0m      \x1b[34m█\x1b[0m
+\x1b[37m/    \\\x1b[0m      \x1b[31m░░░\x1b[0m     \x1b[33m▒▒▒\x1b[0m     \x1b[34m█\x1b[0m
+\x1b[37m|      |\x1b[0m     \x1b[31m░░░░\x1b[0m    \x1b[33m▒▒▒▒\x1b[0m    \x1b[34m█\x1b[0m
+\x1b[37m|      |\x1b[0m     \x1b[31m░░░░░\x1b[0m   \x1b[33m▒▒▒▒▒\x1b[0m   \x1b[34m█\x1b[0m
+\x1b[37m\\      /\x1b[0m    \x1b[31m░░░░░░\x1b[0m  \x1b[33m▒▒▒▒▒▒\x1b[0m  \x1b[34m█\x1b[0m
+\x1b[37m \\    /\x1b[0m     \x1b[31m░░░░░░░\x1b[0m \x1b[33m▒▒▒▒▒▒▒\x1b[0m \x1b[34m█\x1b[0m
+\x1b[37m  \\  /\x1b[0m      \x1b[31m░░░░░░░░\x1b[0m\x1b[33m▒▒▒▒▒▒▒▒\x1b[0m\x1b[34m█\x1b[0m
+\x1b[37m   \\/\x1b[0m
